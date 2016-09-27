@@ -3,7 +3,7 @@ improved-journey
 
 Here is some information about the project.
 
-# Headeing
+# Heading
 
 ## Smaller Heading
 
